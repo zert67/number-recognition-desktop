@@ -1,0 +1,27 @@
+# Model files
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.npz
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec

@@ -1,0 +1,4 @@
+tensorflow>=2.12,<3.0
+pillow>=9.0
+numpy>=1.23,<2.0
+pyinstaller>=6.0,<7.0
